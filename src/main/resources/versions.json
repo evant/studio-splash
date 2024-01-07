@@ -30,8 +30,68 @@
     "version": "2022.3.1.22"
   },
   {
+    "name": "Giraffe",
+    "track": "Canary",
+    "version": "2022.3.1.11"
+  },
+  {
     "name": "Flamingo",
     "track": "Stable",
     "version": "2022.2.1.20"
-  }
+  },
+  {
+    "name": "Flamingo",
+    "track": "Canary",
+    "version": "2022.2.1.7"
+  },
+  {
+    "name": "Electric Eel",
+    "track": "Stable",
+    "version": "2022.1.1.21"
+  },
+  {
+    "name": "Electric Eel",
+    "track": "Canary",
+    "version": "2022.1.1.10"
+  },
+  {
+    "name": "Dolphin",
+    "track": "Stable",
+    "version": "2021.3.1.17"
+  },
+  {
+    "name": "Dolphin",
+    "track": "Canary",
+    "version": "2021.3.1.9"
+  },
+  {
+    "name": "Chipmunk",
+    "track": "Stable",
+    "version": "2021.2.1.16"
+  },
+  {
+    "name": "Chipmunk",
+    "track": "Canary",
+    "version": "2021.2.1.7"
+  },
+  {
+    "name": "Bumblebee",
+    "track": "Stable",
+    "version": "2021.1.1.23"
+  },
+  {
+    "name": "Bumblebee",
+    "track": "Canary",
+    "version": "2021.1.1.13"
+  },
+  {
+    "name": "Arctic Fox",
+    "track": "Stable",
+    "version": "2020.3.1.26"
+  },
+  {
+    "name": "Arctic Fox",
+    "track": "Canary",
+    "version": "2020.3.1.15"
+  },
 ]

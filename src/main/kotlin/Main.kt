@@ -64,7 +64,7 @@ private fun download(name: String, url: URL, to: Path) {
     ) as ProgressBarWrappedInputStream
     TarArchiveInputStream(GzipCompressorInputStream(progressStream)).use { tar ->
         for (entry in tar) {
-            if (entry.name == "android-studio/lib/resources.jar") {
+            if (entry.name.matches(Regex("(\\./)?android-studio/lib/resources.jar"))) {
                 val zip = ZipArchiveInputStream(tar)
                 for (resource in zip) {
                     if (resource.name == "artwork/studio_splash@2x.png") {
