@@ -1,5 +1,15 @@
 [
   {
+    "name": "Koala Feature Drop",
+    "track": "Canary",
+    "version": "2024.1.2.8"
+  },
+  {
+    "name": "Koala",
+    "track": "Stable",
+    "version": "2024.1.1.11"
+  },
+  {
     "name": "Koala",
     "track": "Canary",
     "version": "2023.3.2.2"
