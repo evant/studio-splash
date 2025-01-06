@@ -1,8 +1,18 @@
 [
   {
-    "name": "Koala Feature Drop",
+    "name": "Meerkat",
     "track": "Canary",
-    "version": "2024.1.2.8"
+    "version": "2024.3.1.6"
+  },
+  {
+    "name": "Ladybug",
+    "track": "Stable",
+    "version": "2024.2.1.9"
+  },
+  {
+    "name": "Ladybug",
+    "track": "Canary",
+    "version": "2024.2.1.5"
   },
   {
     "name": "Koala",
